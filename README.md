@@ -8,7 +8,7 @@
 
 <h2>프로젝트 멤버</h2>
   
-  * [황인규]("https://github.com/hig228")
+  * [황인규](https://github.com/hig228)
   * [강여림]("https://github.com/yr9708")
   * [김지후]("https://github.com/KimJiHu0")
   * [김태현]("https://github.com/ffolabear")
