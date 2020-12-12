@@ -22,7 +22,8 @@
 
  - 부동산 거래는 주거문제를 해결하기 위한 필수적인 일이지만 안전성, 투명성, 신속성이 떨어지는 것이 문제
  - 이러한 문제점을 공인중개사가 개입해서 어느정도 해결할 수 있지만 불필요한 수수료가 발생
-
+ - 기존의 직방, 다방은 매물거래시 공인중개사가 개입을했고 네이버 부동산같은 경우 매물에 대한정보만을 제공하고 거래에 필요한 서비스를 제공하지 않음
+ > 거래에 필요한 서류를 공지사항으로 안내하고 사용자에게 불필요하고 과도한 수수료를 면제시켜주는 것을 목표
 
 ### 구현 기능
 
@@ -47,16 +48,16 @@
 
 ### 개발 환경
 
- * 사용 언어 : Java, JavaScript, HTML, CSS
- * 사용 프레임워크 : Spring Framework
- * 사용 라이브러리 :  jQuery, Summernote, Socket.IO
- * 사용 API : SNS 로그인(NAVER, kakao, Google), 카카오지도, 도로명주소, 부트페이
- * 사용 DB : Oracle Database 11g
- * 사용 서버 : Apache Tomcat 9.0, Amazon Web Server
- * 사용 도구 : Eclipse IDE
- * 형상 관리 : Github
+ - 사용 언어 : Java, JavaScript, HTML, CSS
+ - 사용 프레임워크 : Spring Framework
+ - 사용 라이브러리 :  jQuery, Summernote, Socket.IO
+ - 사용 API : SNS 로그인(NAVER, kakao, Google), 카카오지도, 도로명주소, 부트페이, Elasticsearch, Kibana, Logstash
+ - 사용 DB : Oracle Database 11g
+ - 사용 서버 : Apache Tomcat 9.0, Amazon Web Server
+ - 사용 도구 : Eclipse IDE
+ - 형상 관리 : Github
 
-
+### 
 
 
 
